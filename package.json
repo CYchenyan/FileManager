@@ -36,7 +36,7 @@
     "babel-jest": "^24.9.0",
     "eslint": "^6.6.0",
     "jest": "^24.9.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "metro-react-native-babel-preset": "^0.56.3",
     "react-test-renderer": "16.9.0",
     "seamless-immutable": "^7.1.4"
